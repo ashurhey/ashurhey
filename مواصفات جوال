@@ -1,3 +1,7 @@
 cd /path/to/مساحة التخزين المشتركة الداخلية/information .html
 cd /path/to/مساحة التخزين المشتركة الداخلية/script information .js
-
+git init
+git remote add origin https://github.com/your-username/your-repository-name.git
+git add .
+git commit -m "أول رفع للملفات"
+git push -u origin master
